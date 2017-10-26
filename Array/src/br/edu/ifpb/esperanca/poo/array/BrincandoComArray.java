@@ -1,5 +1,5 @@
 package br.edu.ifpb.esperanca.poo.array;
-
+//teste
 import java.util.ArrayList;
 
 public class BrincandoComArray {
